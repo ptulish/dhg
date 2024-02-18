@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "++3cXXOKxsrQx17/pLN3BgNpOHsmRIBs+DXHpf8BjCY=",
+  "Source": "MyServer",
+  "BasePath": "_content/MyServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

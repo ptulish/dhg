@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s1PgWXeyZYedd9aNSr8QRex30EWsXSwxf1YeKI1Dgpw=",
+  "Source": "MTCGServer",
+  "BasePath": "_content/MTCGServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

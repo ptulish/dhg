@@ -1,0 +1,15 @@
+/Users/lernraum/Desktop/MySolution/Crossjoin/Crossjoin/bin/Debug/net6.0/Crossjoin
+/Users/lernraum/Desktop/MySolution/Crossjoin/Crossjoin/bin/Debug/net6.0/Crossjoin.deps.json
+/Users/lernraum/Desktop/MySolution/Crossjoin/Crossjoin/bin/Debug/net6.0/Crossjoin.runtimeconfig.json
+/Users/lernraum/Desktop/MySolution/Crossjoin/Crossjoin/bin/Debug/net6.0/Crossjoin.dll
+/Users/lernraum/Desktop/MySolution/Crossjoin/Crossjoin/bin/Debug/net6.0/Crossjoin.pdb
+/Users/lernraum/Desktop/MySolution/Crossjoin/Crossjoin/obj/Debug/net6.0/Crossjoin.vbproj.AssemblyReference.cache
+/Users/lernraum/Desktop/MySolution/Crossjoin/Crossjoin/obj/Debug/net6.0/Crossjoin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lernraum/Desktop/MySolution/Crossjoin/Crossjoin/obj/Debug/net6.0/Crossjoin.AssemblyInfoInputs.cache
+/Users/lernraum/Desktop/MySolution/Crossjoin/Crossjoin/obj/Debug/net6.0/Crossjoin.AssemblyInfo.vb
+/Users/lernraum/Desktop/MySolution/Crossjoin/Crossjoin/obj/Debug/net6.0/Crossjoin.vbproj.CoreCompileInputs.cache
+/Users/lernraum/Desktop/MySolution/Crossjoin/Crossjoin/obj/Debug/net6.0/Crossjoin.dll
+/Users/lernraum/Desktop/MySolution/Crossjoin/Crossjoin/obj/Debug/net6.0/refint/Crossjoin.dll
+/Users/lernraum/Desktop/MySolution/Crossjoin/Crossjoin/obj/Debug/net6.0/Crossjoin.pdb
+/Users/lernraum/Desktop/MySolution/Crossjoin/Crossjoin/obj/Debug/net6.0/Crossjoin.genruntimeconfig.cache
+/Users/lernraum/Desktop/MySolution/Crossjoin/Crossjoin/obj/Debug/net6.0/ref/Crossjoin.dll

@@ -1,0 +1,15 @@
+/Users/lernraum/Desktop/MySolution/Server_Client/WebApiClient/bin/Debug/net6.0/WebApiClient
+/Users/lernraum/Desktop/MySolution/Server_Client/WebApiClient/bin/Debug/net6.0/WebApiClient.deps.json
+/Users/lernraum/Desktop/MySolution/Server_Client/WebApiClient/bin/Debug/net6.0/WebApiClient.runtimeconfig.json
+/Users/lernraum/Desktop/MySolution/Server_Client/WebApiClient/bin/Debug/net6.0/WebApiClient.dll
+/Users/lernraum/Desktop/MySolution/Server_Client/WebApiClient/bin/Debug/net6.0/WebApiClient.pdb
+/Users/lernraum/Desktop/MySolution/Server_Client/WebApiClient/obj/Debug/net6.0/WebApiClient.csproj.AssemblyReference.cache
+/Users/lernraum/Desktop/MySolution/Server_Client/WebApiClient/obj/Debug/net6.0/WebApiClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lernraum/Desktop/MySolution/Server_Client/WebApiClient/obj/Debug/net6.0/WebApiClient.AssemblyInfoInputs.cache
+/Users/lernraum/Desktop/MySolution/Server_Client/WebApiClient/obj/Debug/net6.0/WebApiClient.AssemblyInfo.cs
+/Users/lernraum/Desktop/MySolution/Server_Client/WebApiClient/obj/Debug/net6.0/WebApiClient.csproj.CoreCompileInputs.cache
+/Users/lernraum/Desktop/MySolution/Server_Client/WebApiClient/obj/Debug/net6.0/WebApiClient.dll
+/Users/lernraum/Desktop/MySolution/Server_Client/WebApiClient/obj/Debug/net6.0/refint/WebApiClient.dll
+/Users/lernraum/Desktop/MySolution/Server_Client/WebApiClient/obj/Debug/net6.0/WebApiClient.pdb
+/Users/lernraum/Desktop/MySolution/Server_Client/WebApiClient/obj/Debug/net6.0/WebApiClient.genruntimeconfig.cache
+/Users/lernraum/Desktop/MySolution/Server_Client/WebApiClient/obj/Debug/net6.0/ref/WebApiClient.dll
